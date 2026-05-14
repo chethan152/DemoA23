@@ -9,6 +9,6 @@ public class Demo1Test {
 	{
 		System.out.println("mango");
 		System.out.println("grapes");
-		System.out.println("banana");
+		System.out.println("pear");
 	}
 }
