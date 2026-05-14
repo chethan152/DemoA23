@@ -8,6 +8,6 @@ public class Demo1Test {
 	public void mangoTest()
 	{
 		System.out.println("mango");
-		System.out.println("banana");
+		System.out.println("grapes");
 	}
 }
