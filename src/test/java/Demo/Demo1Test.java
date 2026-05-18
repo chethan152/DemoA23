@@ -7,8 +7,8 @@ public class Demo1Test {
 	@Test(groups = "smoke")
 	public void mangoTest()
 	{
-		System.out.println("mango");
-		System.out.println("guava");
+		System.out.println("grapes");
+		System.out.println("papaya");
 		System.out.println("orange");
 	}
 }
